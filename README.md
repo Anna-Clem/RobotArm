@@ -1,5 +1,5 @@
 # Formation RTS - édition confiné
-## RobotArm
+## Arduino / Bras-robot
 
 ### Inscription Tinkercad
 
@@ -17,9 +17,6 @@ Deux choix s'offrent à vous pour la suite (le choix reste votre):
   - [ ] Aller sur votre "dashboard" (il suffit une fois conencter de cliquer sur le logo en haut à gauche de la page)
   - [ ] Puis cliquez dans la colonne de gauche sur "Rejoindre la classe" (écrit en vert)
   - [ ] Rentrez tout simplement le code
-  
-  
-  
 
 #### 2- Utilisation sans s'inscrire
   - [ ] Cliquez sur "Rejoindre maintenant" en haut à droite de la page
