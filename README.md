@@ -1,4 +1,4 @@
-# Formation RTS
+# Formation RTS - édition confiné
 ## RobotArm
 
 ### Inscription Tinkercad
