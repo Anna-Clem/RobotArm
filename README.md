@@ -10,7 +10,7 @@ Deux choix s'offrent à vous pour la suite :
 - Utilisation sans s'inscrire
 
 
-- [ ] Créer un compte
+#### Créer un compte
 
 
 
