@@ -11,7 +11,7 @@ Deux choix s'offrent à vous pour la suite (le choix reste votre):
 
 
 #### 1- Créer un compte
-  -[ ] Cliquez sur "Rejoindre maintenant" en haut à droite de la page
+  - [ ] Cliquez sur "Rejoindre maintenant" en haut à droite de la page
   2. "Créer un compte personnel" puis "S'inscrire avec une adresse électronique"
   3. Suivez simplement la procédure
   4. Aller sur votre "dashboard" (il suffit une fois conencter de cliquer sur le logo en haut à gauche de la page)
