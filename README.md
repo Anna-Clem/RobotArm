@@ -37,8 +37,15 @@ Vous ferez de toute façon parti d'une classe où tout ce que vous ferez sera en
 
 ### Simuler votre circuit
   
-  1. 
-  2.
+  1. Cliquez sur "Code" en haut à droite de votre fenêtre. Dans le menu déroulant sélectionnez "Texte". Vous devriez voir apparaître la structure type d'un code en Arduino.
+  2. En bas de la fenêtre qui vient de s'afficher, vous avez accès également accès au "Moniteur Série".
+  3. Une fois votre code écrit : cliquez sur "Démarrer la simulation" à côté de "Code".
+  4. Si votre code contient une erreur, le logiciel vous le fera savoir. Si tout va bien, vous pouvez déjà visualiser sur le circuit ou le moniteur série la simulation.
 
 ### Resources et fichiers d'aide
   
+Vous pourrez retrouver certains montages et codes sur mon profil Tinkercad (un peu vide pour le moment)  
+Pour celà, dans votre "dashboard" cliquez tout en haut à droite à côté de votre logo de profil sur la loupe. Tapez "Annaïg", sélectionnez l'onglet "Personnes" et cliquez sur le profil qui s'affiche. Sous l'onglet "Circuits" vous pourrez avoir acccès aux montages. 
+
+
+#Amusez-vous ! 
