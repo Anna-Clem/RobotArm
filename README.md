@@ -7,7 +7,7 @@ Tout d'abord, rendez-vous sur le site : [Tinkercad](https://www.tinkercad.com/)
 
 Deux choix s'offrent à vous pour la suite (le choix reste votre): 
 - Créer un compte
-- Utilisation sans s'inscrire
+- Utilisation sans s'inscrire  
 Vous ferez de toute façon parti d'une classe où tout ce que vous ferez sera enregistré et pourra être récupé par RTS si besoin.
 
 
